@@ -5,3 +5,4 @@ The project captures a crime that has taken place and the police department need
 # The documentation
 Includes gathering the data by downloading the dataset from SQL city, creating a database, importing the dataset in Postgres SQL, querying it, and finding the murderer and villain. 
 
+Kindly download the attached documents to view part of the query screenshot and the full query text file.
